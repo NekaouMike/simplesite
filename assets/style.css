@@ -2,3 +2,7 @@
 body{
 background-color:#000000;
 }
+//using the H1 tag we set the text color for H1 to #ffffff or white in hex
+h1{
+  color: #ffffff;
+}
