@@ -2,7 +2,7 @@
 //Header where you preload everything the page needs
 <head>
 //sylesheet ref to link the css to the page
-<link href="/assets/theme.css" rel="stylesheet">
+<link href="/assets/style.css" rel="stylesheet">
 //seting fav icon
 <link rel="icon" type="image/png" href="assets/logo.png"/>
 </head>
