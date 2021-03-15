@@ -10,7 +10,7 @@
 <body>
 //using php we will get the header php and import it onto the page
 <?php include 'assets/header.php'?>
-//main page handler code
+//main page handler code. home.php is the the default page when hitting your site.
 <?php
 $url = isset($_SERVER['PATH_INFO']) ? explode('/', ltrim($_SERVER['PATH_INFO'],'/')) : '/';
 if($url[0] == "/") {
