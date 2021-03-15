@@ -5,7 +5,7 @@ A Simple editable site that is amazing
 Page Handler to do 404 and /link vs /link.php
 n\
 Header
-n\
+\
 Footer
-n\
+\
 css
