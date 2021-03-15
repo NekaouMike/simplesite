@@ -3,8 +3,22 @@
 <head>
 //sylesheet ref to link the css to the page
 <link href="/assets/style.css" rel="stylesheet">
-//seting fav icon
-<link rel="icon" type="image/png" href="assets/logo.png"/>
+ //embed and global site info
+//setting favicon
+ <link rel="icon" type="image/png" href="assets/logo.png"/>
+    lookup des
+    <meta name="description" content="OwO">
+    <meta http-equiv="content-language" content="en-us">
+    //site name that will show in lookup and discord
+    <meta property="og:title" content="Emera" />
+    <meta property="og:type" content="website" />
+    //embed color
+    <meta property="og:color" content="#90EE90" />
+    //What is shown as description on discord
+    <meta property="og:description" content="UwU" />
+    <meta property="og:url" content="https://emera.xyz" />
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,300,700,800" rel="stylesheet" type="text/css">
+    <meta name="theme-color" content="#00D166" />
 </head>
 //body where your site lives
 <body>
