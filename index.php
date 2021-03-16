@@ -7,16 +7,16 @@
 //setting favicon
  <link rel="icon" type="image/png" href="assets/logo.png"/>
     lookup des
-    <meta name="description" content="OwO">
+    <meta name="description" content="sample text">
     <meta http-equiv="content-language" content="en-us">
     //site name that will show in lookup and discord
-    <meta property="og:title" content="Emera" />
+    <meta property="og:title" content="Name" />
     <meta property="og:type" content="website" />
     //embed color
     <meta property="og:color" content="#90EE90" />
     //What is shown as description on discord
-    <meta property="og:description" content="UwU" />
-    <meta property="og:url" content="https://emera.xyz" />
+    <meta property="og:description" content="sample text 2" />
+    <meta property="og:url" content="https://your.site" />
     <link href="https://fonts.googleapis.com/css?family=Raleway:400,300,700,800" rel="stylesheet" type="text/css">
     <meta name="theme-color" content="#00D166" />
 </head>
