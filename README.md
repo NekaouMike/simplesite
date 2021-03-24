@@ -6,6 +6,6 @@ Page Handler to do 404 and /link vs /link.php
 \
 Header
 \
-Footer
+Footer *soon
 \
 css
